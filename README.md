@@ -1,1 +1,3 @@
-"alerts-go-wwg iniciaá∆o go" 
+"alerts-go-wwg inicia√ß√£o go" 
+
+Meus exerc√≠cio do curso de GO
